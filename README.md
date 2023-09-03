@@ -1,3 +1,5 @@
+#Multiclass image classification using Transfer learning
+
 Image classification stands as one of the tasks in supervised machine learning, with the primary goal of assigning images from a dataset into their respective categories or labels. A classic example of this is the classification of images representing various dog breeds. Since this task involves classifying into more than one category, it's referred to as multi-class classification. In this article, we'll tackle this challenge by leveraging a pre-trained model known as InceptionResNetV2 and customizing it to our needs.
 
 Now, let's delve into some key concepts:
